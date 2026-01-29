@@ -47,12 +47,5 @@ O foco está exclusivamente na criação do recurso e no entendimento inicial do
 
 ---
 
-## 🚀 Próximos Passos
-- Criar pipelines de dados
-- Explorar monitoramento
-- Conectar fontes e destinos de dados
-
----
-
 ## 📂 Observação Final
 Este projeto foi desenvolvido exclusivamente para fins educacionais, como parte de um desafio prático da DIO.
